@@ -1,0 +1,28 @@
+{
+  "name": "project-blogging-site",
+  "version": "1.0.0",
+  "description": "Repository for backend cohort - Lithium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Functionup-mn/project-blogging-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Functionup-mn/project-blogging-site/issues"
+  },
+  "homepage": "https://github.com/Functionup-mn/project-blogging-site#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  }
+}
+
+
